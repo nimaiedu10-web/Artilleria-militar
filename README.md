@@ -5,7 +5,77 @@ Trabajo de informatica
 <head>
 <title>Tipos de Artillería</title>
 <link rel="stylesheet" href="style.css">
+ <style> body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:#f4f4f4;
+    margin:0;
+}
+
+header{
+    background-color:#2c3e50;
+    color:white;
+    text-align:center;
+    padding:20px;
+}
+
+nav{
+    background-color:#34495e;
+    padding:10px;
+    text-align:center;
+}
+
+nav a{
+    color:white;
+    text-decoration:none;
+    margin:15px;
+    font-weight:bold;
+}
+
+nav a:hover{
+    color:#f1c40f;
+}
+
+.container{
+    width:80%;
+    margin:auto;
+    padding:20px;
+}
+
+img{
+    width:400px;
+    border-radius:10px;
+}
+
+table{
+    width:100%;
+    border-collapse:collapse;
+    margin-top:20px;
+}
+
+table, th, td{
+    border:1px solid black;
+}
+
+th{
+    background-color:#2c3e50;
+    color:white;
+}
+
+th, td{
+    padding:10px;
+    text-align:center;
+}
+
+footer{
+    background:#2c3e50;
+    color:white;
+    text-align:center;
+    padding:10px;
+    margin-top:20px;
+}
+</style>
 </head>
+
  
 
 <body>
